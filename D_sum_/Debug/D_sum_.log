@@ -1,0 +1,10 @@
+﻿  ft_is_alpha.c
+C:\Users\JooN\source\repos\D_sum_\D_sum_\ft_is_alpha.c(10,20): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[5]'과(와) 다릅니다.
+C:\Users\JooN\source\repos\D_sum_\D_sum_\ft_is_alpha.c(10,18): warning C4024: 'ft_str_is_alpha': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\JooN\source\repos\D_sum_\D_sum_\ft_is_alpha.c(11,20): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[5]'과(와) 다릅니다.
+C:\Users\JooN\source\repos\D_sum_\D_sum_\ft_is_alpha.c(11,18): warning C4024: 'ft_str_is_alpha': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\JooN\source\repos\D_sum_\D_sum_\ft_is_alpha.c(12,20): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[10]'과(와) 다릅니다.
+C:\Users\JooN\source\repos\D_sum_\D_sum_\ft_is_alpha.c(12,18): warning C4024: 'ft_str_is_alpha': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+  ft_is_uppercase.c
+  코드를 생성하고 있습니다...
+  D_sum_.vcxproj -> C:\Users\JooN\source\repos\D_sum_\Debug\D_sum_.exe
