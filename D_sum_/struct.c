@@ -1,4 +1,4 @@
-
+/*
 #include <stdio.h> 
 #include <stdlib.h> 
 // typedef sturct 선언 
@@ -24,4 +24,4 @@ int main() {
 	ft_set_struct(str->a, str->b, str->c);
 	// 파라미터로 set할 변수 3개를 넣기 
 	ft_print_struct(str); 
-}
+}*/

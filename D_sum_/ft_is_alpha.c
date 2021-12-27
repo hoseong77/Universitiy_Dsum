@@ -1,5 +1,4 @@
-
-#include<stdio.h>
+/*#include<stdio.h>
 
 void ft_str_is_alpha(char* str);
 
@@ -15,7 +14,7 @@ int main(void) {
 
 void ft_str_is_alpha(char* str)
 {
-	int a = 0, b = 0;
+	int a = 0;
 	int len = sizeof(str);
 
 	for (int i = 0; i < len; ++i)
@@ -31,4 +30,6 @@ void ft_str_is_alpha(char* str)
 		printf("0\n");
 	else
 		printf("1\n");
-}
+
+}*/
+

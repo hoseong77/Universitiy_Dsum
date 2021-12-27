@@ -20,7 +20,6 @@ void ft_str_is_uppercase(char* str)
 	{
 		if (*(str + i) >= 65 && *(str + i) <= 90) {
 			a = a + 1;
-			
 		}
 		else {
 			continue;
